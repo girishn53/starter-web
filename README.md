@@ -1,6 +1,10 @@
 # Starter Web Project
 
-## Inroduction
+This is a simple website project for git training
+
+## Introduction
+
+this is intro
 
 ## Purpose
 
