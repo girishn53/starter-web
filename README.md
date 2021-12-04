@@ -9,5 +9,8 @@ this is intro
 ## Purpose
 
 ## Deployment
+Deployment is on local server
 
 ## How to contribute
+
+this is contribute
