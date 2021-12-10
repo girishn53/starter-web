@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project for git training
+This is a simple website project for git training.
+Adding a line for rebasing example
 
 ## Introduction
 this is intro
